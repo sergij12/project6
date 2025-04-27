@@ -1,0 +1,20 @@
+.container {
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  transition: background-color 0.3s;
+}
+
+button {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+input[type="date"] {
+  width: 150px;
+}
