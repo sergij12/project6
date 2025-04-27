@@ -18,3 +18,7 @@ button {
 input[type="date"] {
   width: 150px;
 }
+
+select {
+  min-width: 120px;
+}
